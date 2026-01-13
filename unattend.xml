@@ -59,7 +59,7 @@
 				</LocalAccounts>
 			</UserAccounts>
 			<AutoLogon>
-				<Username>Admin</Username>
+				<Username>IT</Username>
 				<Enabled>true</Enabled>
 				<LogonCount>1</LogonCount>
 				<Password>
